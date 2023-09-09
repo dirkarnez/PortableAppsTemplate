@@ -11,3 +11,7 @@ PortableAppsTemplate
 3. Edit `App/AppInfo/appinfo.ini`
 4. Optional / custom / advanced scripting on `App/AppInfo/Launcher/Custom.nsh`, leave it as it is if nothing to do
 5. Run PortableApps.com Launcher wizard and follow the wizard GUI
+
+### References
+- https://github.com/cosmomill/ToadPortable/blob/master/App/AppInfo/Launcher/ToadPortable.ini
+- https://github.com/pedrom34/ZoteroPortable-dev-repo/blob/master/App/AppInfo/Launcher/ZoteroPortable.ini
